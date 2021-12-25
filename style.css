@@ -1,0 +1,38 @@
+.row1{
+width: 100%;
+display: flex;
+}
+.logo{
+    width: 50%;
+}
+.logo img{
+    padding: 10px;
+    height: 120px;
+    width: 120px;
+    border-radius: 70px;
+}
+.text{
+    padding: 20px;
+    width:50%;
+    text-align: right;
+    font-family: 'Pushster', cursive;
+    font-family: 'Sansita', sans-serif;
+    font-size: 18px;
+}
+.row2{
+    width: 100%;
+    text-align:center;
+}
+.row2 img{
+width: 100%;
+}
+.row3{
+    margin-top: 10px;
+    justify-content:center;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    }
+.col1{
+    padding: 20px;
+}
